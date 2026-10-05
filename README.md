@@ -182,7 +182,7 @@ The dataset is not treated as an independent, identically distributed regression
 
 ### N₂O temporal behaviour
 
-![N₂O time series](figures/n2o_time_series.png)
+![N₂O time series](figures/n2o_timeseries.png)
 
 The one-hour persistence analysis showed strong short-term dependence between current and next-hour N₂O, supporting the use of persistence as a required baseline.
 
